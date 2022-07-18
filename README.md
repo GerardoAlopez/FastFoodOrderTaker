@@ -1,2 +1,2 @@
 # FastFoodOrderTaker
-Implemention of code for ordering food in a restaurant
+Implementation of code to order food in a restaurant
